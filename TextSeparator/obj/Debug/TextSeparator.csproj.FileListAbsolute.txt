@@ -1,0 +1,17 @@
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Debug\TextSeparator.exe.config
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Debug\TextSeparator.exe
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Debug\TextSeparator.pdb
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.Properties.Resources.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.exe
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.pdb
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.MainForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.FileForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.Forms.TextForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.Forms.ResultForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Debug\TextSeparator.exe.manifest
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Debug\TextSeparator.application
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.exe.manifest
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Debug\TextSeparator.application

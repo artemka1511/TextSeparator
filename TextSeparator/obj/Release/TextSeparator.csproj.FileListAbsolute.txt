@@ -1,0 +1,12 @@
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Release\TextSeparator.exe.config
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Release\TextSeparator.exe
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\bin\Release\TextSeparator.pdb
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.FileForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.MainForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.Forms.ResultForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.Forms.TextForm.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.Properties.Resources.resources
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.exe
+C:\Users\artem\Desktop\TextSeparator\TextSeparator\obj\Release\TextSeparator.pdb
